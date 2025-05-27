@@ -1,0 +1,10 @@
+svm 
+non linear and linear 
+k nearest
+knn 5 marks numericals
+unsupervised and supervised 
+decision tree ke theory
+bias,variance,and tradeoff
+classfication and regression
+confusion matrix
+Euclidean and Manhattan 
